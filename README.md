@@ -13,6 +13,7 @@ Inicialmente, foi realizada uma pesquisa por meio da IA generativa ChatGPT para 
 
 ## 🚀 Resultados
 O resultado foi uma apresentação visualmente bem disposta com os itens mais importantes sobre Pyton.
+Acesso - https://drive.google.com/file/d/1-hz3qCYeNo1vXrHK_Bneysemd0eYfI4B/view?usp=sharing
 
 ## 💭 Reflexão (Opcional)
 A criação desse trabalho foi interessante e desafiadora, visto que não conhecia o Github. Ao final foi muito bom desenvolver essa atividade.
